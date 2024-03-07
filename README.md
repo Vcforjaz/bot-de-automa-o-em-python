@@ -2,9 +2,9 @@
 
 # Bot de automacao em Python :
 > [!Tip]
-> Bot de automação de cadastro de produtos feito em Python, pode ser utilizado para ter como base na criação de outro bot, ou ediçao do mesmo para atender a sua maneira. 
-Como dito anteriormente, o bot foi escrito em Python e utiliza duas bibliotecas. 
-Biblioteca nativa 'time' e a Biblioteca adicional de automação 'pyautogui'.
+> <p>Bot de automação de cadastro de produtos feito em Python, pode ser utilizado para ter como base na criação de outro bot, ou ediçao do mesmo para atender a sua maneira.</p>
+<p>Como dito anteriormente, o bot foi escrito em Python e utiliza duas bibliotecas. </p>
+<p>Biblioteca nativa 'time' e a Biblioteca adicional de automação 'pyautogui'.</p>
 
 # Visualize o código sem baixar :
 #1. Entrar no sistema
