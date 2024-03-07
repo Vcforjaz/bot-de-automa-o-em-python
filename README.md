@@ -5,6 +5,7 @@
 > <p>Bot de automação de cadastro de produtos feito em Python, pode ser utilizado para ter como base na criação de outro bot, ou ediçao do mesmo para atender a sua maneira.</p>
 <p>Como dito anteriormente, o bot foi escrito em Python e utiliza duas bibliotecas. </p>
 <p>Biblioteca nativa 'time' e a Biblioteca adicional de automação 'pyautogui'.</p>
+<p>O banco de dados (informações a serem utilizadas no cadastro), podem estar em diversos tipos de arquivos, .excel .docx .csv .sql ...</p>
 
 # Atenção !
 > [!WARNING]
