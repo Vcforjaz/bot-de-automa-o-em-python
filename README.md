@@ -6,6 +6,10 @@
 <p>Como dito anteriormente, o bot foi escrito em Python e utiliza duas bibliotecas. </p>
 <p>Biblioteca nativa 'time' e a Biblioteca adicional de automação 'pyautogui'.</p>
 
+# Atenção !
+> [!WARNING]
+> É importante saber que este bot foi projetado em um computador especifíco, o código está sendo compartilhado a nível de conhecimento, executa-lo em outra máquina pode apresentar mal funcionamento do mesmo. Para parar uma automação feita em python, é preciso levar o cursor do mouse para o canto superior esquerdo enquanto a tela do Visual Studio Code/ VS Code está em evidência.
+
 # Visualize o código sem baixar :
     #1. Entrar no sistema
     import pyautogui        
