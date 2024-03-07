@@ -88,6 +88,7 @@
     #5. Repeat process.
     pyautogui.click(x=184, y=385)
     pyautogui.scroll(1200)
+    
     #Victor Forjaz
 
 ## Link para download:
